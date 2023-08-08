@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+}
+
+header {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: rgb(75,105,177);
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 36px;
+    margin: 20px auto;
+}
+
+
+
+
+#search-btn {
+    margin-bottom: 32px;
+    background-color: #6699ff;
+    color: white;
+}
+
+.btn {
+    font-size: 32px;
+    width: 100%;
+    background: lightgrey;
+    color: black;
+    border: none;
+    border-radius: 1px;
+    margin-top: 30px;
+    padding: 1px 0;
+}
+
+.city {
+   font-size: 32px;
+   width: 100%;
+   border-radius: 1px;
+   border: 1px solid black;
+   height: 72px;
+   padding-bottom: 1px;
+   padding-top: 0;
+   padding-left: 1px;
+}
+
+hr {
+    border-top: 1px solid rgba(0, 0, 0, 0, 1);
+}
+
+#search-history {
+    background-color: white;
+    border-width: thin;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 3px;
+    margin: 0;
+    text-align: left;
+    width: 350px;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 20px;
+    color: grey;
+}
