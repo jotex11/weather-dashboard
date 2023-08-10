@@ -5,4 +5,8 @@ My task was to complete the weather dashboard and to show the current weather an
 ## URLS
 link to github: https://github.com/jotex11/weather-dashboard
 
-link to deployed website: 
+link to deployed website: https://jotex11.github.io/weather-dashboard/
+
+## Screenshots
+![Alt text](<Screenshot 2023-08-09 at 8.14.05 PM (2).png>)
+![Alt text](<Screenshot 2023-08-09 at 8.14.28 PM.png>)
